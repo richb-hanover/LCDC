@@ -132,7 +132,7 @@ function barChart (ary, prop, textLabels, qID, label) {
     data: {
       labels: labels,
       datasets: [{
-        label: label,
+        label: "",
         data: data,
         backgroundColor: [
           'rgba(54, 162, 235, 0.2)', // blue
