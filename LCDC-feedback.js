@@ -405,21 +405,6 @@ responses = [
    "Other": "Zoning to encourage small home building"
  },
  {
-   "Timestamp": "2019/04/01 9:37:45 PM AST",
-   "Response": 28,
-   "Attend": "No",
-   "View": "Yes",
-   "Takeaway": "There is a demand for developing Lyme to help reduce taxes",
-   "Like": "It is not crowded.",
-   "Change": "Not much",
-   "Muni": 5,
-   "School": 5,
-   "Taxes": "Too high",
-   "How-address": "Reduce expenditures.",
-   "Manual": "",
-   "Other": "We live here because it is not West Lebanon, Manchester, or Metro Boston. Stop the developers, now."
- },
- {
    "Timestamp": "2019/04/01 9:39:20 PM AST",
    "Response": 29,
    "Attend": "No",
