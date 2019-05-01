@@ -49,7 +49,7 @@ function formatResponse(resp) {
   <dt>Takeaway:</dt>  <dd>${cleanText(resp.Takeaway)}</dd>
   <dt>Like about Lyme:</dt>  <dd>${cleanText(resp.Like)}</dd>
   <dt>Desirable Changes:</dt>  <dd>${cleanText(resp.Change)}</dd>
-   <dt>How address:</dt>  <dd>${cleanText(resp["How-address"])}</dd>
+  <dt>How address:</dt>  <dd>${cleanText(resp["How-address"])}</dd>
   <dt>Other thoughts:</dt>  <dd>${cleanText(resp.Other)}</dd>
   </dl>
   `;
