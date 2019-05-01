@@ -1,4 +1,4 @@
-responses=[
+responses = [
  {
    "Timestamp": "2019/03/30 12:10:12 PM AST",
    "Response": 1,
@@ -192,7 +192,7 @@ responses=[
    "Taxes": "Too high",
    "How-address": "cut the waste at the school, have you ever  seen the waste there, have you really looked?",
    "Manual": "",
-   "Other": "have one amount of money  for all high school students, make Thetford our HS; parents should kick in any amount that is over  what our HS gets\n\n\n\n\n\n\n\n\nhS"
+   "Other": "have one amount of money  for all high school students, make Thetford our HS; parents should kick in any amount that is over  what our HS gets hS"
  },
  {
    "Timestamp": "2019/04/01 1:03:15 PM AST",
@@ -405,21 +405,6 @@ responses=[
    "Other": "Zoning to encourage small home building"
  },
  {
-   "Timestamp": "2019/04/01 9:37:45 PM AST",
-   "Response": 28,
-   "Attend": "No",
-   "View": "Yes",
-   "Takeaway": "There is a demand for developing Lyme to help reduce taxes",
-   "Like": "It is not crowded.",
-   "Change": "Not much",
-   "Muni": 5,
-   "School": 5,
-   "Taxes": "Too high",
-   "How-address": "Reduce expenditures.",
-   "Manual": "",
-   "Other": "We live here because it is not West Lebanon, Manchester, or Metro Boston. Stop the developers, now."
- },
- {
    "Timestamp": "2019/04/01 9:39:20 PM AST",
    "Response": 29,
    "Attend": "No",
@@ -433,21 +418,6 @@ responses=[
    "How-address": "Reduce expenditures.",
    "Manual": "",
    "Other": "We live here because it is not West Lebanon, Manchester, or Metro Boston. Stop the developers, now."
- },
- {
-   "Timestamp": "2019/04/02 1:40:16 PM AST",
-   "Response": 30,
-   "Attend": "No",
-   "View": "Yes",
-   "Takeaway": "",
-   "Like": "I like Lyme very much.  Like its sense of community and school.  I like town officials i.e. clerk's office, dump personnel, ",
-   "Change": "",
-   "Muni": 4,
-   "School": 5,
-   "Taxes": "Too high",
-   "How-address": "",
-   "Manual": "",
-   "Other": "Consider everything and anything.  Is everyone paying their fair share."
  },
  {
    "Timestamp": "2019/04/02 11:41:43 PM AST",
@@ -1031,7 +1001,7 @@ responses=[
    "School": 2,
    "Taxes": "",
    "How-address": "The school is a \"Cadillac\"  Do we need all the bells and whistles? We currently don't need all-day kindergarten.  Do we need a full time Spanish teacher?   The school drives the budget.",
-   "Manual": "004 - ",
+   "Manual": "006-",
    "Other": "Too many signs - unnecessary, unattractive (road signs). We should reconsider the bare roads policy - especially dirt roads.  Buy a house on a dirt road - be prepared.  Voting on the school budget should get more attention. It needs a \"little town meeting\" because the school board pre-empts half the time to present their case. Make the current school budget night the information - discussion night ad vote at Town Meeting\n\nPS - The select board should publicize the police the \"rules\" for event signs on the common (eg only one weeks in advance, no out-of-town signs stuck around etc."
  },
  {
@@ -1041,12 +1011,12 @@ responses=[
    "View": "No",
    "Takeaway": "",
    "Like": "Sense of community",
-   "Change": " -Lack of socioeconomic diversity; lack of housing for low to middle income families;\n- Lack of businesses (stores, restuarants)\n- Lack of investment in parks and recreation",
+   "Change": "- Lack of socioeconomic diversity; lack of housing for low to middle income families;\n- Lack of businesses (stores, restuarants)\n- Lack of investment in parks and recreation",
    "Muni": 1,
    "School": 5,
    "Taxes": "About right",
    "How-address": "",
-   "Manual": "006-",
+   "Manual": "",
    "Other": "Create more housing, esp. affordable housing  - planned developments, mixed income\n- Offer more recreational serives - pond restrooms, concession stand, etc. better public playground at Post Pond, ice skating\n- Allow/facilitate business to thrive in town by loosening restrictions on establishing businesses here.\n\nAlso:\n- very unsatisfied by municipal services \"too low serivces: would like to pay more for better and more services\"\n"
  },
  {
@@ -1076,7 +1046,7 @@ responses=[
    "School": 5,
    "Taxes": "Too high",
    "How-address": "reduce budgets",
-   "Manual": "010-reb",
+   "Manual": "",
    "Other": ""
  },
  {
@@ -1226,7 +1196,7 @@ responses=[
    "School": 1,
    "Taxes": "Too high",
    "How-address": "Cut school costs considerably",
-   "Manual": "016 -",
+   "Manual": "016-",
    "Other": "Better road care"
  },
  {
@@ -1271,7 +1241,7 @@ responses=[
    "School": 3,
    "Taxes": "Too high",
    "How-address": "Some how control the school budget",
-   "Manual": "021 -",
+   "Manual": " 021-",
    "Other": "Trying to make living here more easier for lower and middle class people"
  },
  {
@@ -1491,11 +1461,11 @@ responses=[
    "View": "Yes",
    "Takeaway": "The tax base of Lyme will not suffer if we allow some development, especially cluster development and housing.",
    "Like": "The Library\nThe school\nThe store\nThe Lyme Inn\n",
-   "Change": " -I would like the town to allow alcohol served at the Academy Building and utilize the space more so exercise classes would pay no rent\n- I would like a more friendly and available office of the Select Board. \n- I would like a better summer Rec. program at Post Pond with a higher-paid director\n- I would like a more reasonable and helpful Planning Board",
+   "Change": "#NAME?",
    "Muni": 5,
    "School": 5,
    "Taxes": "Too high",
-   "How-address": " -Rent the Academy Building more and allow alcohol\n- Allow more density for housing\n- Allow multiple family dwellings to be built\n- Encourage business",
+   "How-address": "#NAME?",
    "Manual": "036-",
    "Other": "\n- Providing more housing that is affordable\n- Officer Anthony needs more training and supervision. He seems rigid and unresponsive, hiding behind \"the regulations.\" \n- Do we really need two policemen?\n- Too much power and land in the hands of too few people. \n- Lyme is getting like a gated community."
  },
@@ -1520,12 +1490,12 @@ responses=[
    "Attend": "No",
    "View": "No",
    "Takeaway": "",
-   "Like": " -Rural\n- Small\n- Slow growth\n- No traffic\n- Dirt road\n- Emphasis on nature and undeveloped spaces\n- Our people",
+   "Like": "#NAME?",
    "Change": "Return to prior recycling system (DIY)",
    "Muni": 4,
    "School": 3,
    "Taxes": "Too high",
-   "How-address": " -Consider best options to control school costs without materially disadvantaging the children\n- Don't spend so much on the roads. The River Road rebuild was too much. Just have two dead-end roads.",
+   "How-address": "- Consider best options to control school costs without materially disadvantaging the children\n- Don't spend so much on the roads. The River Road rebuild was too much. Just have two dead-end roads.",
    "Manual": "039- ",
    "Other": "\n- Learn from the thousands/tens of thousands of towns in America who thought they could lower taxes by growing. You can't! So stay small, be frugal and support each other.\n- (Muni services) Would be great if we went back to prior recycling system\n- (School services) We have so many options. Do they drive additional cost?\n- (Tax too high) They may drive us out of town"
  },
@@ -1640,12 +1610,12 @@ responses=[
    "Attend": "No",
    "View": "Yes",
    "Takeaway": "I came away with the feeling that it will be very difficult to reduce our high tax rate. There appears to be \"no quick fix\" and I found the comment (I can't remember her name, but she spoke very well) at the end to be most helpful in finding a long-term solution. We need to send more of a forceful message to our government in Concord that this is a statewide problem and should be considered as such. If we value our infrastructures within our towns (i.e., the schools and roads, etc) we should find a way (broad-based state tax, probably) to help all our towns pay for these.",
-   "Like": " -Fabulous outdoor activities\n- A really good school\n- Interesting and active citizens who care about their town and each other",
+   "Like": "#NAME?",
    "Change": "A more mixed (age & economic) population that celebrates and supports each other (as well as cares for its environment) in a sustainable way (i.e. clustered homes, many of which could be smaller & super energy efficient) so that people who want to (and are able to financially) remain here for a long time into their elder years. ",
    "Muni": 5,
    "School": null,
    "Taxes": "Too high",
-   "How-address": " -We need a more balanced population, meaning that single people, couples without children, and retired people need to be encouraged to move here.\n- Clustered housing (instead of \"spot\" building on large pieces of land all over the hillsides, etc.) and the building of small home (thus, hopefully more affordable) should be encouraged through changes in the zoning regulations. Clustered homes means more efficient road maintenance, police protection, and easier access for fire trucks, delivery trucks, and the possibility for van service for handicapped or older people needing transportation. Families (I raised my family here!) need to be encouraged too, but not at the expense of having to enlarge the school, hire a number of new staff, etc.",
+   "How-address": "- We need a more balanced population, meaning that single people, couples without children, and retired people need to be encouraged to move here.\n- Clustered housing (instead of \"spot\" building on large pieces of land all over the hillsides, etc.) and the building of small home (thus, hopefully more affordable) should be encouraged through changes in the zoning regulations. Clustered homes means more efficient road maintenance, police protection, and easier access for fire trucks, delivery trucks, and the possibility for van service for handicapped or older people needing transportation. Families (I raised my family here!) need to be encouraged too, but not at the expense of having to enlarge the school, hire a number of new staff, etc.",
    "Manual": "044-",
    "Other": "\nWe need, as a town and individuals, to communicate with our state government and let them know that it may become necessary soon to implement a broad-based tax to help pay for our school and maybe help more with road repairs, etc."
  },
@@ -1894,7 +1864,7 @@ responses=[
    "Response": 127,
    "Attend": "Yes",
    "View": "Yes",
-   "Takeaway": " -Lyme's tax burden CANNOT be meaningfully or reliably addressed through growth/development. \n- The school is both a positive and a negative. Positive because it draws a younger demographic to an otherwise aging town and because it provides an excellent education. Negative because it is by far the biggest, cost-controllable tax burden on the town. \n- Lyme's municipal budget is far less impactful than the school's\n- Lyme is one of the most well-functioning small towns in the state, in part because of the high valuations. ",
+   "Takeaway": "- Lyme's tax burden CANNOT be meaningfully or reliably addressed through growth/development. \n- The school is both a positive and a negative. Positive because it draws a younger demographic to an otherwise aging town and because it provides an excellent education. Negative because it is by far the biggest, cost-controllable tax burden on the town. \n- Lyme's municipal budget is far less impactful than the school's\n- Lyme is one of the most well-functioning small towns in the state, in part because of the high valuations. ",
    "Like": "I love Lyme just as it is:\n- A small population that allows for a generally friendly, close community where we can agree or disagree civilly and help each other out\n- A town where multiple support structures are in place for residents with a variety of needs: Community Care of Lyme, Parish Nurses, Those Guys & Gals, Dimmick Fund, etc.\n- Beauty, open space, good air, good school, good food & many other small-scale businesses.",
    "Change": "I would love for Lyme to stay much as it is. Whatever growth takes place should happen naturally in a way that maintains the current qualities listed in previous question.",
    "Muni": 4,
@@ -2001,7 +1971,7 @@ responses=[
    "View": "No",
    "Takeaway": "n/a",
    "Like": "Lyme is a wonderful community - people taking care of and helping others. People who work for the town are great.",
-   "Change": " -Taxes are a big issue\n- From time to time there is a shocking degree of incivility on the listserv\n- I feel there are too many expensive extras at school",
+   "Change": "#NAME?",
    "Muni": 5,
    "School": 5,
    "Taxes": "Too high",
@@ -2030,7 +2000,7 @@ responses=[
    "Attend": "No",
    "View": "Yes",
    "Takeaway": "thorough, balanced, and clearly presented results",
-   "Like": " -Community spirit\n- Active town business, informally helping one another\n- The Church, Tony's store, etc.",
+   "Like": "- Community spirit\n- Active town business, informally helping one another\n- The Church, Tony's store, etc.",
    "Change": "A small number of households own a large portion of open, undeveloped land. A large fraction of that is in current use & minimally or untaxed.",
    "Muni": 2,
    "School": 2,
@@ -2051,8 +2021,8 @@ responses=[
    "School": 2,
    "Taxes": "Too high",
    "How-address": "Control school costs",
-   "Manual": "071 -",
-   "Other": " I would like to see more planning for the future.  Being more proactive will help mitigate future tax increase and help us prepare for large future expenditures!"
+   "Manual": "071 - ",
+   "Other": "I would like to see more planning for the future.  Being more proactive will help mitigate future tax increase and help us prepare for large future expenditures!"
  },
  {
    "Timestamp": "2019/04/26 10:38:34 AM AST",
@@ -2075,7 +2045,7 @@ responses=[
    "Attend": "No",
    "View": "Yes",
    "Takeaway": "Good information. Thank  you!",
-   "Like": " -Scenery\n- Caring community - church, Tony's, Patty Jenks, school, etc.",
+   "Like": "- Scenery\n- Caring community - church, Tony's, Patty Jenks, school, etc.",
    "Change": "Access for more middle class & working families. Worry that high taxes & real estate prices rising every year will change it to elitist community.",
    "Muni": 1,
    "School": 1,
@@ -2096,8 +2066,8 @@ responses=[
    "School": 1,
    "Taxes": "Too high",
    "How-address": "Use the full service life of purchased equipment.  Lease/rent capital equipment when it pencils out.  Consider allowing development of vacant parcels (both commercial and residential) that will both contribute to community values and lower the tax burden on individual property owners.  Lease the unused portion of the town building.",
-   "Manual": "077-",
-   "Other": "  -Get some pencil sharpeners\n\nMunicipal - unsatisfied with the loss of recycling (Casella)\n\nSchool - So few students, So much cost"
+   "Manual": "077 -",
+   "Other": "Get some pencil sharpeners\n\nMunicipal - unsatisfied with the loss of recycling (Casella)\n\nSchool - So few students, So much cost"
  },
  {
    "Timestamp": "2019/04/26 10:46:27 AM AST",
@@ -2210,7 +2180,7 @@ responses=[
    "Attend": "No",
    "View": "No",
    "Takeaway": "",
-   "Like": " -People\n- Low development\n- Scenic roads\n- Community\n- Good school\n",
+   "Like": "#NAME?",
    "Change": "Real estate taxes are absolutely unsustainable!\n",
    "Muni": 1,
    "School": 4,
