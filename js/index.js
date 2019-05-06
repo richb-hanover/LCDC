@@ -18,14 +18,14 @@ function tablerow(accum, x) {
  * Return the the table contents from the array's propName items.
  */
 function tableize(ary, prop, qID) {
-  const theResps = ary
+  var theResps = ary
     .map(function(x) { return x[prop] } )                     // get the requested prop
     .map(function(x) { return x.trim() } )                    // remove leading & trailing whitespace
     .filter(function(x) { return /\S/.test(x) } )             // remove empty answers
     .map(function(x) { return x.replace(/\n/g,"<br />") } );  // substitute \n with <br />
   document.getElementById("ct"+qID).innerHTML = theResps.length;
 
-  const theDom = theResps.reduce(tablerow,"");
+  var theDom = theResps.reduce(tablerow,"");
   document.getElementById("r"+qID).innerHTML = theDom;
 }
 
@@ -51,9 +51,9 @@ function countResponses(accum, x) {
  */
 function summarizeResponses(ary, prop, labels) {
 
-  const zeroAry = {};
+  var zeroAry = {};
   labels.forEach(function(x) { zeroAry[x] = 0 });
-  const retary = ary
+  var retary = ary
     .map(function(x) { return x[prop] } )
     .map(function(x) { if (x >= "1" && x <= "5") { x = labels[x] } return x; } )
     .map(function(x) { if (x === '') { x = "N/A"; } return x; } )      // Fix up empty string
@@ -72,15 +72,15 @@ function summarizeResponses(ary, prop, labels) {
  */
 function pieChart (ary, prop, textLabels, qID ) {
   //pie
-  const ctxP = document.getElementById("r"+qID).getContext('2d');
-  const resps = summarizeResponses(ary, prop, textLabels);
-  const labels = Object.keys(resps);
-  let data = [];
-  let count = 0;
+  var ctxP = document.getElementById("r"+qID).getContext('2d');
+  var resps = summarizeResponses(ary, prop, textLabels);
+  var labels = Object.keys(resps);
+  var data = [];
+  var count = 0;
   labels.forEach(function(x) { data.push(resps[x]); count+= resps[x] });
   document.getElementById("ct"+qID).innerHTML = count;
 
-  const myPieChart = new Chart(ctxP, {
+  var myPieChart = new Chart(ctxP, {
     type: 'pie',
     data: {
       labels: labels,
@@ -118,16 +118,16 @@ function pieChart (ary, prop, textLabels, qID ) {
  * @param label
  */
 function barChart (ary, prop, textLabels, qID, label) {
-  const ctx = document.getElementById("r"+qID).getContext('2d');
-  const resps = summarizeResponses(ary, prop, textLabels);
+  var ctx = document.getElementById("r"+qID).getContext('2d');
+  var resps = summarizeResponses(ary, prop, textLabels);
 
-  const labels = Object.keys(resps);
-  let data = [];
-  let count = 0;
+  var labels = Object.keys(resps);
+  var data = [];
+  var count = 0;
   labels.forEach(function(x) { data.push(resps[x]); count+= resps[x] });
   document.getElementById("ct"+qID).innerHTML = count;
 
-  const myChart = new Chart(ctx, {
+  var myChart = new Chart(ctx, {
     type: 'bar',
     data: {
       labels: labels,
@@ -171,8 +171,8 @@ function barChart (ary, prop, textLabels, qID, label) {
  */
 
 // copy the questions array to the respective <h3>'s
-for (let i=1; i<=10; i++) {
-  let id = "q"+i;
+for (i=1; i<=10; i++) {
+  id = "q"+i;
   document.getElementById(id).innerHTML = questions[i];
 }
 
