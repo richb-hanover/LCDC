@@ -19,11 +19,11 @@ function tablerow(accum, x) {
  */
 function tableize(ary, prop, qID) {
   var theResps = ary
-    .map(function(x) { return { resp: x[prop] , item: x.Response}  } )                     // get the requested prop
-    .map(function(x) { return Object.assign(x, { resp: x.resp.trim()} ) } )                    // remove leading & trailing whitespace
-    .filter(function(x) { return  /\S/.test(x.resp) } )             // remove empty answers
+    .map(function(x) { return { resp: x[prop] , item: x.Response}  } )   // return an object with the requested prop and its Response #
+    .map(function(x) { return Object.assign(x, { resp: x.resp.trim()} ) } )  // remove leading & trailing whitespace from the requested prop
+    .filter(function(x) { return  /\S/.test(x.resp) } )             // filter out empty strings
     .map(function(x) { console.log(x.resp); return Object.assign(x, {resp: x.resp.replace(/\n/g,"<br />")}) } )   // substitute \n with <br />
-    .map(function(x) { return x.resp + " <i>(" + x.item + ")</i>"});
+    .map(function(x) { return x.resp + " <i>(" + x.item + ")</i>"}); // append the response # in paren's
   document.getElementById("ct"+qID).innerHTML = theResps.length;
 
   var theDom = theResps.reduce(tablerow,"");

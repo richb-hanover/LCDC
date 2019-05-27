@@ -2218,5 +2218,50 @@ responses=[
    "How-address": "Once children are out of school system, many, many people will be moving, causing high turnover and lessening sense of community. This is directly related to exorbitant real estate taxes. This situation is absolutely unsustainable. They are at least 50% too high.",
    "Manual": "084-",
    "Other": "\n"
- }
+ },
+  {
+    "Timestamp": "2019/05/25 18:45:17 AM AST",
+    "Response": 149,
+    "Attend": "Yes",
+    "View": "",
+    "Takeaway": "Good explanations about tax base and what makes sense/doesn't make sense to focus on.",
+    "Like": "Community feel, residents who care for each other, beautiful roads and vistas, Pinnacle!",
+    "Change": "Taxes - unaffordable\n Senior Housing",
+    "Muni": 3,
+    "School": 3,
+    "Taxes": "Too high",
+    "How-address": "Investigate revenue possibilities",
+    "Manual": "084-",
+    "Other": "\n"
+  },
+  {
+    "Timestamp": "2019/05/25 18:45:17 AM AST",
+    "Response": 150,
+    "Attend": "No",
+    "View": "No",
+    "Takeaway": "",
+    "Like": "Rural character\nGood organizations\nPlanning for the future",
+    "Change": "Affordable Housing for Seniors and young families (underlined)\n We need to downsize, but can't find anything locally. Our son and his family can't afford to stay in Lyme and he has a good job!",
+    "Muni": 3,
+    "School": 5,
+    "Taxes": "",
+    "How-address": "Taxes are high but the school is great as is home resale value.",
+    "Manual": "084-",
+    "Other": "Water quality in Post Pond - only outlet blocked by beaver dams. Declining water quality, silting, milfoil, and algae blooms.\n"
+  },
+  {
+    "Timestamp": "2019/05/25 18:45:17 AM AST",
+    "Response": 151,
+    "Attend": "Yes",
+    "View": "Yes",
+    "Takeaway": "No schemes are going to lower our taxes. Taxes are part of a quality life in Lyme. It is well worth it to have a high quality of life by paying taxes. This is a choice for people.",
+    "Like": "I like the history of the school systems in Lyme, and that people in Lyme appreciate and are educated. They are role models for others. The women in Lyme are especially notable as great citizens and role models. The winter atheletes are leaders too! Lyme children contribute greatly to Hanover High School in a positive way",
+    "Change": "I think Lyme can continue to educate for the future. Lyme could host more campuses for learning. A college of heritage carpentry and stone works, for example! A college for olympic training for Nordic skiing! A college for animal rescue/rehabilitation.",
+    "Muni": 5,
+    "School": 5,
+    "Taxes": "About right",
+    "How-address": "The taxes are about right",
+    "Manual": "084-",
+    "Other": "The mindset of the town as it ages is to stay positive and educate at all opportunities. Do not be grumpy. Stay outside, stay active, educate. We live near Dartmouth College and represent what is unique about the College here."
+  }
 ];
