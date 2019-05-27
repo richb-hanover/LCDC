@@ -126,7 +126,7 @@ responses=[
    "View": "Yes",
    "Takeaway": "Lot of detailed information, some new and some I anticipated. We do need to tighten up financially and with what we want our town to look like down the road.",
    "Like": "We have the best school around.",
-   "Change": "We have one town office employee who should consider a career elsewhere. In thinking about everything, I would like Lyme to retain it's current qualities. I know that is selfish, but since I moved here 32 years ago, enough has evolved such that I don't want any more growth, no higher taxes, etc. Where we are is perfection in all areas.",
+   "Change": "In thinking about everything, I would like Lyme to retain it's current qualities. I know that is selfish, but since I moved here 32 years ago, enough has evolved such that I don't want any more growth, no higher taxes, etc. Where we are is perfection in all areas.",
    "Muni": 4,
    "School": 5,
    "Taxes": "About right",
@@ -957,7 +957,7 @@ responses=[
    "Taxes": "Too high",
    "How-address": "I am not sure there is way forward for Lyme. 97% of the town is in current use or conservation. There is no business and unlikely to be any due to the restrictive ordinances. The town is small minded and entrenched in its smallness. We should change high school choices to one that is affordable which might change the metric on who moves here for the schools. ",
    "Manual": "",
-   "Other": "Where to start. Consider re-writing the zoning regulations. Put every thing on the table and have folks actually vote on them, rather than having an ordinance written by old white men is a closed room with lots on money and a desire for Brigadoon. We need housing for folks of modest means who work in our town, we need housing for people looking to downsize. We need a town office that has resilience and redundancy rather than expertise in one person who could retire or die. We need to have vibrancy and life with a coffee shop, an affordable food store, a vital affordable choice in dining. Maybe a funeral home (we have lots of funerals). Think outside the box. Embrace change. Have more diversity in town. Don't be the laky of  David Roby or call the town \"Robyville\" since that is who runs this village 30 minutes away from any where. Right."
+   "Other": "Where to start. Consider re-writing the zoning regulations. Put every thing on the table and have folks actually vote on them, rather than having an ordinance written by old white men is a closed room with lots on money and a desire for Brigadoon. We need housing for folks of modest means who work in our town, we need housing for people looking to downsize. We need a town office that has resilience and redundancy rather than expertise in one person who could retire or die. We need to have vibrancy and life with a coffee shop, an affordable food store, a vital affordable choice in dining. Maybe a funeral home (we have lots of funerals). Think outside the box. Embrace change. Have more diversity in town. "
  },
  {
    "Timestamp": "2019/04/21 10:25:23 AM AST",
@@ -1495,9 +1495,9 @@ responses=[
    "Muni": 5,
    "School": 5,
    "Taxes": "Too high",
-   "How-address": " -Rent the Academy Building more and allow alcohol\n- Allow more density for housing\n- Allow multiple family dwellings to be built\n- Encourage business",
+   "How-address": "- Rent the Academy Building more and allow alcohol\n- Allow more density for housing\n- Allow multiple family dwellings to be built\n- Encourage business",
    "Manual": "036-",
-   "Other": "\n- Providing more housing that is affordable\n- Officer Anthony needs more training and supervision. He seems rigid and unresponsive, hiding behind \"the regulations.\" \n- Do we really need two policemen?\n- Too much power and land in the hands of too few people. \n- Lyme is getting like a gated community."
+   "Other": "\n- Providing more housing that is affordable \n- More training and supervision for police - rigid and unresponsive, hiding behind \"the regulations.\" Do we really need two policemen?\n- Too much power and land in the hands of too few people. \n- Lyme is getting like a gated community."
  },
  {
    "Timestamp": "2019/04/26 9:24:30 AM AST",
@@ -1595,7 +1595,7 @@ responses=[
    "Attend": "No",
    "View": "No",
    "Takeaway": "N/A",
-   "Like": "I am 81 years old, living in Lyme on SS. The only reason I can live in Lyme is no montage and a tax abatement.  I moved to Lyme Center in 1974 taxes were $500.  Nothing has been done to the house except kitchen since and taxes are probably $5,000 or close.",
+   "Like": "I am 81 years old, living in Lyme on SS. The only reason I can live in Lyme is no mortgage and a tax abatement.  I moved to Lyme Center in 1974 taxes were $500.  Nothing has been done to the house except kitchen since and taxes are probably $5,000 or close.",
    "Change": "",
    "Muni": null,
    "School": null,
@@ -2075,7 +2075,7 @@ responses=[
    "Attend": "No",
    "View": "Yes",
    "Takeaway": "Good information. Thank  you!",
-   "Like": " -Scenery\n- Caring community - church, Tony's, Patty Jenks, school, etc.",
+   "Like": " -Scenery\n- Caring community - church, Tony's, school, etc.",
    "Change": "Access for more middle class & working families. Worry that high taxes & real estate prices rising every year will change it to elitist community.",
    "Muni": 1,
    "School": 1,
@@ -2120,7 +2120,7 @@ responses=[
    "Attend": "No",
    "View": "No",
    "Takeaway": "",
-   "Like": "I think there is a lot of community spirit.  We have some great people working for the town: amazing librarian, road crew, Patty Jenks, etc.  Love the activities, Lyme Town Band, historical society.  My awesome neighbors.  The beauty of the land.  The budding entrepreneurship - the tavern, new development on Rte 10, etc.",
+   "Like": "I think there is a lot of community spirit.  We have some great people working for the town: amazing librarian, road crew, etc.  Love the activities, Lyme Town Band, historical society.  My awesome neighbors.  The beauty of the land.  The budding entrepreneurship - the tavern, new development on Rte 10, etc.",
    "Change": "I am so worried about taxes.  My taxes have increased 50% in 15 years.  This isn't sustainable.  I have lived here all my life but we will have to sell if this keeps going.  I won't be able to retire and pay for taxes too.",
    "Muni": null,
    "School": null,
@@ -2231,7 +2231,7 @@ responses=[
     "School": 3,
     "Taxes": "Too high",
     "How-address": "Investigate revenue possibilities",
-    "Manual": "084-",
+    "Manual": "[149]",
     "Other": "\n"
   },
   {
@@ -2246,7 +2246,7 @@ responses=[
     "School": 5,
     "Taxes": "",
     "How-address": "Taxes are high but the school is great as is home resale value.",
-    "Manual": "084-",
+    "Manual": "[150]",
     "Other": "Water quality in Post Pond - only outlet blocked by beaver dams. Declining water quality, silting, milfoil, and algae blooms.\n"
   },
   {
@@ -2261,7 +2261,7 @@ responses=[
     "School": 5,
     "Taxes": "About right",
     "How-address": "The taxes are about right",
-    "Manual": "084-",
+    "Manual": "[151]",
     "Other": "The mindset of the town as it ages is to stay positive and educate at all opportunities. Do not be grumpy. Stay outside, stay active, educate. We live near Dartmouth College and represent what is unique about the College here."
   }
 ];
