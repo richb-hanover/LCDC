@@ -627,7 +627,7 @@ responses=[
    "Taxes": "Too high",
    "How-address": "As above,  adopt SB2. ",
    "Manual": "",
-   "Other": "The town should be actively engaged in developing town owned land as a recreation destination for the purpose of providing campsite facilities at charge. Preliminary investigations show that the town forest properly developed for camping could realize a minimum value of $250,000 per year.  This would also provide existing restaurants and related businesses to gain considerable income.  A big thank you to LCDC for the work it has done and hopefully will create a new and worthwhile path for the betterment of all Lyme citizens.\nDuncan Mackintosh, 68 Breck Hill Road, Lyme. "
+   "Other": "The town should be actively engaged in developing town owned land as a recreation destination for the purpose of providing campsite facilities at charge. Preliminary investigations show that the town forest properly developed for camping could realize a minimum value of $250,000 per year.  This would also provide existing restaurants and related businesses to gain considerable income.  A big thank you to LCDC for the work it has done and hopefully will create a new and worthwhile path for the betterment of all Lyme citizens."
  },
  {
    "Timestamp": "2019/04/08 12:46:03 PM AST",
