@@ -30,7 +30,7 @@ They read data from the LCDC-feedback.js and LCDC-questions.js files, and format
 ## Development/Test Procedure
 
 This repository allows easy testing of the Javascript and CSS files. 
-Run the `yarn` command below, then edit any *.js, *.html, and *.css file and the page will automatically reload in Firefox Developer Browser.
+Run the `yarn` command below, then edit any `*.js`, `*.html`, and `*.css` file and the page will automatically reload in Firefox Developer Browser.
 Setup files stolen from Wes Bos' CSS-Grid course at 
 [https://github.com/wesbos/css-grid](https://github.com/wesbos/css-grid)
 

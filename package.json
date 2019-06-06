@@ -12,7 +12,7 @@
   "author": "Rich Brown <richb.hanover@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.18.13",
+    "browser-sync": "^2.26.5",
     "cssnano": "^4.1.10",
     "run-script-os": "^1.0.3"
   }
