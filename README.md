@@ -1,7 +1,10 @@
 # LCDC/PB Questionnaire - March 2019
 
 This repository contains information collected in March 2019 from Lyme NH residents. 
-The questions for the survey were created as a joint project of the Lyme Community Development Committe and the Lyme Planning Board.
+The questions for the survey were created as a joint project of the Lyme Community Development Committee and the Lyme Planning Board.
+
+The main web page has two tabs showing a summary view of the responses,
+and the data from the individual responses. 
 
 ## How the information was collected
 
@@ -23,9 +26,9 @@ The data was exported as CSV from Google, then massaged to:
 5. This file becomes `LCDC-feedback.js`
 6. Create a similar file containing the questions. It becomes `LCDC-questions.js`
 
-There are two web pages: `index.html` and `responses.html` 
-These provide different views on the data. 
-They read data from the LCDC-feedback.js and LCDC-questions.js files, and format the data using a touch of Javascript and CSS.
+The page reads data from the
+LCDC-feedback.js and LCDC-questions.js files, and formats the data using
+a touch of Javascript and CSS.
 
 ## Development/Test Procedure
 
