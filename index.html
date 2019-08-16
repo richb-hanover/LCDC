@@ -23,7 +23,8 @@
         You can view the charts of data, and scroll through the answers people provided to the survey.
     </p>
     <p>
-        The two tabs let you view the results as a summary, or as the individual responses.
+        The three tabs let you view the survey results as a summary, as the individual responses,
+        or see background information about this project.
     </p>
     <ul class="nav nav-tabs" id="myTab" role="tablist">
         <li class="nav-item">
@@ -33,6 +34,10 @@
         <li class="nav-item">
             <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile"
                aria-selected="false">Individual Results</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="about-tab" data-toggle="tab" href="#about" role="tab" aria-controls="profile"
+               aria-selected="false">About this project</a>
         </li>
     </ul>
     <div class="tab-content" id="myTabContent">
@@ -157,6 +162,11 @@
             </div>
 
         </div>
+        <div class="tab-pane fade show active" id="about" role="tabpanel" aria-labelledby="about-tab">
+            <p></p>
+            <div class="bootmark" data-src="./README.md">
+            </div>
+        </div>
 
     </div>
 
@@ -175,6 +185,14 @@
     <script type="text/javascript" src="js/mdb.min.js"></script>
     <script type="text/javascript" src="LCDC-feedback.js"></script>
     <script type="text/javascript" src="LCDC-questions.js"></script>
+    <script src="https://unpkg.com/bootmark@latest/dist/bootmark.bundle.min.js"></script>
+    <script>
+      $.fn.bootmark.options.html = {
+        theme: 'litera',
+        toc: false,
+        credit: false
+      };
+    </script>
     <script src="js/index.js"> </script>
 
 </body>

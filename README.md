@@ -1,10 +1,12 @@
-# LCDC/PB Questionnaire - March 2019
+# About the LCDC/PB Questionnaire - March 2019
 
-This repository contains information collected in March 2019 from Lyme NH residents. 
-The questions for the survey were created as a joint project of the Lyme Community Development Committee and the Lyme Planning Board.
+This is information collected in March 2019 from Lyme NH residents. 
+The questions for the survey were created as a joint project of the 
+Lyme Community Development Committee and the Lyme Planning Board.
 
-The main web page has two tabs showing a summary view of the responses,
-and the data from the individual responses. 
+The main web page has three tabs showing a summary view of the responses, 
+the data from the individual responses, 
+and this description of the project.
 
 ## How the information was collected
 
@@ -32,9 +34,11 @@ a touch of Javascript and CSS.
 
 ## Development/Test Procedure
 
-This repository allows easy testing of the Javascript and CSS files. 
+The repository for these files is at: https://github.com/richb-hanover/LCDC 
+It contains the original data, as well test procedures for the Javascript and CSS files. 
+
 Run the `yarn` command below, then edit any `*.js`, `*.html`, and `*.css` file and the page will automatically reload in Firefox Developer Browser.
-Setup files stolen from Wes Bos' CSS-Grid course at 
+Setup files copied from Wes Bos' CSS-Grid course at 
 [https://github.com/wesbos/css-grid](https://github.com/wesbos/css-grid)
 
 ``` sh
