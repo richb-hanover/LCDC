@@ -17,6 +17,7 @@
     "run-script-os": "^1.1.6"
   },
   "dependencies": {
-    "postcss": "^8.3.6"
+    "postcss": "^8.3.6",
+    "xmlhttprequest-ssl": "^2.0.0"
   }
 }
