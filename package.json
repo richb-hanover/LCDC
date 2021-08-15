@@ -12,8 +12,11 @@
   "author": "Rich Brown <richb.hanover@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.26.7",
-    "cssnano": "^4.1.10",
-    "run-script-os": "^1.0.7"
+    "browser-sync": "^2.27.5",
+    "cssnano": "^5.0.7",
+    "run-script-os": "^1.1.6"
+  },
+  "dependencies": {
+    "postcss": "^8.3.6"
   }
 }
