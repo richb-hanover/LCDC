@@ -13,7 +13,7 @@
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.27.5",
-    "cssnano": "^5.0.7",
+    "cssnano": "^5.0.8",
     "run-script-os": "^1.1.6"
   },
   "dependencies": {
