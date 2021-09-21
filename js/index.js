@@ -23,7 +23,7 @@ function tableize(ary, prop, qID) {
     .map(function(x) { return Object.assign(x, { resp: x.resp.trim()} ) } )  // remove leading & trailing whitespace from the requested prop
     .filter(function(x) { return  /\S/.test(x.resp) } )             // filter out empty strings
     .map(function(x) { /* console.log(x.resp); */ return Object.assign(x, {resp: x.resp.replace(/\n/g,"<br />")}) } )   // substitute \n with <br />
-    .map(function(x) { return x.resp + " <i>(" + x.item + ")</i>"}); // append the response # in paren's
+    .map(function(x) { return x.resp + " <i>(Answer #" + x.item + ")</i>"}); // append the response # in paren's
   document.getElementById("ct"+qID).innerHTML = theResps.length;
 
   var theDom = theResps.reduce(tablerow,"");
@@ -253,7 +253,7 @@ function formatResponse(resp) {
   var retstr = "";
 
   retstr += " <dl>";
-  retstr += " <b>Entry Number:</b> "+resp.Response;
+  retstr += " <b>Answer Number:</b> "+resp.Response;
   retstr += " <b>Attend Forum:</b> "+formatScale(resp.Attend);
   retstr += " <b>View online:</b>  "+formatScale(resp.View);
   retstr += " <br />";
